@@ -45,7 +45,7 @@ function App() {
 
   return (
     <Container>
-      <Row>
+      <Row className="g-5">
         <Col md={3}>
           <NoteForm createNote ={createNote} />
         </Col>
