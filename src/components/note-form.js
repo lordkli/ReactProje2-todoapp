@@ -23,7 +23,7 @@ const NoteForm = ({createNote}) => {
     title: title,
     body: desc,
     userId: 1,
-  })}>Ekle</Button>
+  })}>Create Note</Button>
     </>
   );
 };
